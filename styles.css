@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Yatra+One&display=swap');
+body {
+
+background: radial-gradient(780px at 37.8% 100.3%, rgb(19, 3, 65) 2.2%, rgb(32, 7, 80) 20.2%, rgb(27, 88, 111) 58.6%, rgb(115, 88, 44) 75%, rgb(59, 39, 111) 89.6%, rgb(00, 0, 40) 96.1%);
+
+font-family: 'Yatra One', sans-serif;
+ 	color: white;
+  	font-weight: 410;
+  	line-height: 0.9;
+  	letter-spacing: -.003em;
+  	font-size: 18px;
+  	padding: 10px;
+
+
+
+}
